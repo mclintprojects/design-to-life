@@ -3,7 +3,6 @@ There's many things that I have not touched. To explore those parts and to also 
 
 I am an ardent believer of the fact that attaining mastery of a subject requires lots of practice. Therefore by getting my hands dirty **daily** working on real things I hope to attain mastery of Vue.js and it's intricacies.
 
-|Design|Demo|Designer|
-|---|---|---|
-|https://www.uplabs.com/posts/dailyui-challenge-031-file-upload|https://codepen.io/mclint_/full/VBPEwW/|https://mobile.twitter.com/AdarshGoldar|
-
+||Design|Demo|Designer|
+|---|---|---|---|
+|#1|https://www.uplabs.com/posts/dailyui-challenge-031-file-upload|https://codepen.io/mclint_/full/VBPEwW/|https://mobile.twitter.com/AdarshGoldar|
