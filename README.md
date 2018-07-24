@@ -6,3 +6,4 @@ I am an ardent believer of the fact that attaining mastery of a subject requires
 ||Design|Demo|Designer|
 |---|---|---|---|
 |#1|https://www.uplabs.com/posts/dailyui-challenge-031-file-upload|https://codepen.io/mclint_/full/VBPEwW/|https://mobile.twitter.com/AdarshGoldar|
+|#2|https://www.uplabs.com/posts/top-view-of-iphone-x-devices|https://codepen.io/mclint_/full/ZjLdjv|https://twitter.com/design_repos|
